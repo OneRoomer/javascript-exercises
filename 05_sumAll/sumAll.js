@@ -16,10 +16,6 @@ const sumAll = function(number_1, number_2) {
         }
     }
 
-    else {
-
-    }
-
 }
 
 else {
